@@ -1,3 +1,5 @@
+#fuck ton of comments
+
 #import necessary things
 import zipfile,os
 #make a class called what to store this value
