@@ -16,7 +16,6 @@ def fuck():
     for file in files:
         if os.path.isdir(file):
             print (file + "is a directory")
-            break
             pass
         else:
             try:
